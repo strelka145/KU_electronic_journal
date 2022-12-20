@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "<拡張機能のUUID>": {
+      "updates": [
+        {
+          "version": "1.0.0.0",
+          "update_link": "",
+          "update_hash": ""
+        }
+      ]
+    }
+  }
+}
