@@ -1,11 +1,10 @@
 {
   "addons": {
-    "<拡張機能のUUID>": {
+    "{8ff38ded-c717-4630-8101-6320a54e1e59}": {
       "updates": [
         {
           "version": "1.0.0.0",
-          "update_link": "",
-          "update_hash": ""
+          "update_link": "https://github.com/strelka145/KU_electronic_journal/releases/download/firefox/5f10ac05681145b1a98a-1.0.0.0.xpi"
         }
       ]
     }
