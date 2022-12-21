@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "KU電子ジャーナル",
-	"version": "1.0.0.0",
+	"version": "1.0.0.1",
 	"description": "電子ジャーナルの新しい認証方法になったとしてもわざわざポチポチしなくていいプラグイン",
 	"content_scripts": [
 		{
