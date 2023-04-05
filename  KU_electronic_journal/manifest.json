@@ -284,7 +284,8 @@
 	"permissions": [],
   "browser_specific_settings": {
   "gecko": {
-      "update_url": "https://raw.githubusercontent.com/strelka145/KU_electronic_journal/main/updates.json"
+      "update_url": "https://raw.githubusercontent.com/strelka145/KU_electronic_journal/main/updates.json",
+	  "id": "{8ff38ded-c717-4630-8101-6320a54e1e59}"
     }
   }
 }
